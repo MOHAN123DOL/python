@@ -1,0 +1,47 @@
+body{
+	background-image: url(about.jpeg);
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+h1{
+	color: green;
+	font-style: italic;
+	font-size: 100px;
+	hanging-punctuation: !important;
+	background-repeat: no-repeat;
+
+}
+.about{
+	background-image:none;
+	background-repeat: no-repeat;
+	font-style: oblique;
+	color: whitesmoke;
+	text-align: center;
+	text-decoration-line:none;
+	font-weight: 12px;
+	scroll-padding: none;
+	padding-top: 10px;
+	padding-right: 20px;
+	padding-bottom: 20px;
+	padding-left: 5px;
+	border: 2px;
+	
+	font-size: 40px;
+
+
+
+
+
+
+
+	width: 1500px;
+	height: 600px;
+	overflow: auto;
+
+
+}
+
+
+
+
+

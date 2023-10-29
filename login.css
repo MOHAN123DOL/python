@@ -1,0 +1,45 @@
+body{
+background-image: url(img.jpg);
+background-size: cover;
+}
+h1{
+	font-style:italic ;
+	font-weight: 19px;
+	font-size: 50px;
+	
+	color: whitesmoke;
+}
+
+
+
+
+
+
+.myfont{
+	padding: 30px;
+	font-size: 30px;
+	color: whitesmoke;
+}
+.myfont .mohan{
+	padding-bottom: 20px;
+}
+.myfont label{
+	display: block;
+}
+.myfont input[type="text"], .myfont input[type="password"], .myfont text-area {
+	padding: 8px;
+	width: 200px;
+
+}
+.button {
+	background-color: darkblue;
+	color: #000;
+	padding: 20px 25px;
+	border: none;
+	
+
+}
+.button:hover{
+	background-color: pink;
+	color: yellow;
+}
